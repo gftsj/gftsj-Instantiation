@@ -17,7 +17,9 @@ public class Lab {
      *
      * @return any object.
      */
+    
     public Object instantiateANewObject(){
-        return null;
+       Object goodguy = new Object();
+        return goodguy;
     }
 }
